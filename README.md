@@ -12,7 +12,7 @@
 ---
 
 ## 🎮 Pasatiempos:
-- Soy un amante de los videojuegos y me encanta explorar cómo se crean.
+- Soy un amante de los videojuegos y me encanta explorar cómo se crean, pero no me gusta mucho el crearlos (curioso, no?.
 - Siempre estoy buscando maneras de combinar mi amor por la programación con mis hobbies.
 
 ---
